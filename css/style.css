@@ -12,10 +12,6 @@ body {
   background-size: cover;
 }
 
-.wrapper {
-  width: 100%;
-}
-
 .logo {
   position: absolute;
   left: 50%;
