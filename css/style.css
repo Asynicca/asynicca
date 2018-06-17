@@ -18,14 +18,14 @@ body {
 }
 
 .logo img {
-  width: 300px;
+  width: 600px;
 }
 
 .content p {
   font-family: 'Rubik', sans-serif;
   font-weight: lighter;
   text-align: center;
-  font-size: 1.5rem;
+  font-size: 2rem;
   color: white;
   position: absolute;
   display: inline-block;
@@ -38,7 +38,7 @@ body {
 
 #teffee_logo {
    font-family: 'Shrikhand', cursive;
-   font-size: 1.75rem;
+   font-size: 2.15rem;
 }
 
 a {
