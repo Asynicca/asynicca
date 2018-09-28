@@ -22,7 +22,7 @@ body {
   position: absolute;
   text-align: center;
   left: 50%;
-  top: 20%;
+  top: 200px;
   transform: translateX(-50%) translateY(-50%);
   -webkit-animation: fadein 2s;
   /* Safari, Chrome and Opera > 12.1 */
@@ -50,7 +50,7 @@ body {
   overflow: hidden;
   white-space: nowrap;
   left: 50%;
-  top: 30%;
+  top: 300px;
   transform: translateX(-50%) translateY(-50%);
   -webkit-animation: fadein 2s;
   /* Safari, Chrome and Opera > 12.1 */
